@@ -19,6 +19,8 @@ The dataset contains records of ecommerce transactions with the following detail
 
 ## 📈 Key Performance Indicators (KPIs)
 
+!(https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/KPIs.png)
+
 The top section of the dashboard highlights five KPIs:
 
 1. 💵 **Sales**: The total revenue generated from ecommerce transactions. The displayed sales value is **$22,97,200.86**, with a year-over-year (YoY) growth of **20.62%** for 2014. 📈
