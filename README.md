@@ -19,7 +19,7 @@ The dataset contains records of ecommerce transactions with the following detail
 
 ## 📈 Key Performance Indicators (KPIs)
 
-!(https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/KPIs.png)
+![KPIs](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/KPIs.png)
 
 The top section of the dashboard highlights five KPIs:
 
