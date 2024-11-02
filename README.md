@@ -36,28 +36,45 @@ Each KPI includes a sparkline 📊 for trend analysis and a growth indicator for
 ## 📊 Detailed Analysis of Charts
 
 ### 1. 📅 Sales and Profit Analysis (Monthly)
+
+![Sales and Profit Analysis](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Sales%20and%20Profit%20Analysis.png)
+
    - This line and bar chart presents the monthly trend of total sales and profit from January to December across all years **2011 to 2014**.
    - **Insight**: The graph shows distinct seasonal patterns, with peaks in specific months, indicating high sales and profit periods. The visualization allows users to identify periods of high profitability and potential **seasonal trends**.
 
 ### 2. 📂 Category-Wise Profit
+
+![Category-Wise Profit](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Sales%20and%20Profit%20Analysis.png)
+
    - A bar chart that breaks down profit across main product categories**Furniture, Office Supplies, and Technology**.
    - **Insight**: **Technology** appears to have the highest profit among the categories, followed by Office Supplies. The chart distinguishes between increased, decreased, and total profit, enabling stakeholders to evaluate which categories are driving profitability.
 
 ### 3. 🥧 Category-Wise Sales Share %
+
+![Category-Wise Sales Share %](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Category%20wise%20Sales%20Share%20%25.png)
+
    - A donut chart depicting the percentage share of sales attributed to each product category.
    - **Insight**: **Office Supplies** has the largest share (36.4%), followed by **Technology** (32.3%) and **Furniture** (31.3%).
 
 ### 4. 🗺️ Sales by State
+
+![Sales by State](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Sales%20by%20State.png)
+
    - A map visualizing sales distribution across U.S. states.
    - **Insight**: The color-coded intensity highlights states with the highest sales. This geographical breakdown can assist in pinpointing key markets or regions needing attention.
 
 ### 5. 🏆 Top 5 Subcategories by Sales
+
+![Top5](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Top%205.png)
+
    - A horizontal bar chart showing the top subcategories by sales.
    - **Insight**: **Phones** lead the list with the highest sales, followed by **Chairs, Storage, Tables, and Binders**. This insight can be useful for inventory and marketing strategies, focusing on high-demand products.
 
 ---
 
 ## 🔄 Filters (Slicers)
+
+![Slicers](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Images/Slicers.png)
 
 The dashboard includes three slicers that allow dynamic filtering of the data:
 
