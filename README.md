@@ -1,9 +1,5 @@
 # 📊 Ecommerce Sales Analysis Dashboard
 
-Welcome to the **Ecommerce Sales Analysis Dashboard**! This project provides a comprehensive overview of ecommerce performance across various segments, categories, and regions. With an easy-to-use dashboard created in **Microsoft Excel**, stakeholders can explore trends, KPIs, and insights to make data-driven decisions.
-
----
-
 ## 🎯 Project Objective
 
 The main goal of this dashboard is to analyze **ecommerce profitability** by focusing on the profit generated in different **segments, categories, and regions**. It highlights **monthly trends** in sales and profit, allowing stakeholders to compare metrics and drive data-driven decisions.
@@ -25,11 +21,11 @@ The dataset contains records of ecommerce transactions with the following detail
 
 The top section of the dashboard highlights five KPIs:
 
-1. 💵 **Sales**: Total revenue - **$2,297,200.86** with a **20.62% YoY growth** 📈
-2. 💰 **Profit**: Overall profit - **$286,397.02** with a **14.41% YoY growth** 📈
-3. 📦 **Quantity**: Items sold - **37,873** units with a **27.45% YoY growth** 📈
-4. 📑 **Number of Orders**: Unique orders - **9,994** with a **28.64% YoY growth** 📈
-5. 📉 **Profit Margin**: Profit to sales ratio - **0.00%** with a **9.5% YoY decline** 🔻
+1. 💵 **Sales**: The total revenue generated from ecommerce transactions. The displayed sales value is **$22,97,200.86**, with a year-over-year (YoY) growth of **20.62%**. 📈
+2. 💰 **Profit**: The overall profit made from sales transactions. The profit value is **$2,86,397.02**, with a YoY growth of **14.41%**. 📈
+3. 📦 **Quantity**: The total number of items sold, amounting to **37,873** units, with a YoY growth of **27.45%**. 📈
+4. 📑 **Number of Orders**: The count of unique orders, totaling **9,994**, with a YoY growth of **28.64%**. 📈
+5. 📉 **Profit Margin**: The ratio of profit to sales, represented as **0.00%**. This figure is accompanied by a YoY decline of **9.5%*.🔻
 
 Each KPI includes a sparkline 📊 for trend analysis and a growth indicator for quick reference.
 
@@ -38,8 +34,8 @@ Each KPI includes a sparkline 📊 for trend analysis and a growth indicator for
 ## 📊 Detailed Analysis of Charts
 
 ### 1. 📅 Sales and Profit Analysis (Monthly)
-   - A line and bar chart showing monthly sales and profit trends from **2011 to 2014**.
-   - **Insight**: Peaks in certain months indicate high sales/profit periods, highlighting **seasonal trends**.
+   - This line and bar chart presents the monthly trend of total sales and profit from January to December across all years **2011 to 2014**.
+   - **Insight**: The graph shows distinct seasonal patterns, with peaks in specific months, indicating high sales and profit periods. The visualization allows users to identify periods of high profitability and potential **seasonal trends**.
 
 ### 2. 📂 Category-Wise Profit
    - A bar chart breaking down profit across **Furniture, Office Supplies, and Technology**.
