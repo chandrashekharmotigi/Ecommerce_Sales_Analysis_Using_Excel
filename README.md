@@ -21,11 +21,11 @@ The dataset contains records of ecommerce transactions with the following detail
 
 The top section of the dashboard highlights five KPIs:
 
-1. 💵 **Sales**: The total revenue generated from ecommerce transactions. The displayed sales value is **$22,97,200.86**, with a year-over-year (YoY) growth of **20.62%**. 📈
-2. 💰 **Profit**: The overall profit made from sales transactions. The profit value is **$2,86,397.02**, with a YoY growth of **14.41%**. 📈
-3. 📦 **Quantity**: The total number of items sold, amounting to **37,873** units, with a YoY growth of **27.45%**. 📈
-4. 📑 **Number of Orders**: The count of unique orders, totaling **9,994**, with a YoY growth of **28.64%**. 📈
-5. 📉 **Profit Margin**: The ratio of profit to sales, represented as **0.00%**. This figure is accompanied by a YoY decline of **9.5%**.🔻
+1. 💵 **Sales**: The total revenue generated from ecommerce transactions. The displayed sales value is **$22,97,200.86**, with a year-over-year (YoY) growth of **20.62%** for 2014. 📈
+2. 💰 **Profit**: The overall profit made from sales transactions. The profit value is **$2,86,397.02**, with a YoY growth of **14.41%** for 2014. 📈
+3. 📦 **Quantity**: The total number of items sold, amounting to **37,873** units, with a YoY growth of **27.45%** for 2014. 📈
+4. 📑 **Number of Orders**: The count of unique orders, totaling **9,994**, with a YoY growth of **28.64%** for 2014. 📈
+5. 📉 **Profit Margin**: The ratio of profit to sales, represented as **0.00%**. This figure is accompanied by a YoY decline of **9.5%** for 2014.🔻
 
 Each KPI includes a sparkline 📊 for trend analysis and a growth indicator for quick reference.
 
