@@ -80,4 +80,4 @@ These slicers provide users with the flexibility to analyze data for specific ti
 This dashboard is well-structured, providing a high-level overview with the option for deeper analysis. The visuals and KPIs give a clear picture of the ecommerce performance, making it a valuable tool for decision-making. By leveraging this dashboard, stakeholders can quickly assess **sales performance**, identify profitable categories, and explore trends over time, helping to drive business strategies in alignment with the observed data trends.
 
 ---
-
+![Dashboard](https://github.com/chandrashekharmotigi/Ecommerce_Sales_Analysis_Using_Excel/blob/main/Dashboard.png)
